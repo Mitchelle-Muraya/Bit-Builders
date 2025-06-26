@@ -6,6 +6,8 @@ TagManager:
   tags:
   - ZeroBit
   - OneBit
+  - Bit1
+  - Bit0
   layers:
   - Default
   - TransparentFX
